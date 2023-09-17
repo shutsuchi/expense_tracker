@@ -32,3 +32,6 @@
 - different colors based on each category
 - dispay cost when user hover chartbar
 - persistant data
+
+## FIXME
+- TextField in Row Widget
