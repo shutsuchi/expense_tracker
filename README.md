@@ -18,6 +18,11 @@
   - loop (for in)
   - alternative constructor functions
   - filtering lists
+  - responsive
+    - lock devise orientation
+    - LayoutBuilder
+    - Platform
+    - cupertino (for ios)
 - Themeing
   - color scheme
   - dark mode
@@ -27,11 +32,12 @@
   - Error Dialog
 
 ## todo
-- multiple select()
+- multiple select
 - remove all
 - different colors based on each category
 - dispay cost when user hover chartbar
 - persistant data
+- lazy loading Listview
 
 ## FIXME
 - TextField in Row Widget
